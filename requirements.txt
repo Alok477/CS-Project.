@@ -1,0 +1,8 @@
+Pillow==10.1.0
+Pillow==10.1.0
+rembg==2.0.52
+Requests==2.31.0
+streamlit==1.29.0
+streamlit_extras==0.3.5
+streamlit_lottie==0.0.5
+~treamlit==1.28.2
