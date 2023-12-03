@@ -36,7 +36,7 @@ def load_lottiefile(filepath: str):
        with open(filepath,"r") as f:
               return json.load(f)
        
-lottie_cod = load_lottiefile("C:/Users/PRITAM/Desktop/Chatbot CS-Project/lottiefiles/code.json")
+lottie_cod = load_lottiefile("lottiefiles/code.json")
        
 
 
