@@ -66,8 +66,8 @@ if uploaded_file is not None:
 
 
        # Download button
-st.write("To Downlod edited image right click and`click save image as`.")
-
+st.write("To Downlod edited image in PC right click and`click save image as`.")
+st.write("To Downlod edited image in Android/IOS click on the image and`click Download Image`.")
 with st.sidebar:
 
 
