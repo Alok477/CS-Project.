@@ -214,7 +214,7 @@ The code reflects the tools, knowledge, and development practices I was using wh
 
 ## 👨‍💻 Author
 
-**Alok477**
+**Alok Kunmar**
 
 This was one of my first publicly documented programming projects and an early milestone in my journey into Computer Science and software development.
 
